@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1609002434158.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DC92AE74",
+    "lastKnownWriteTime" : 1609002491,
+    "last_content_update" : 1609002491167,
+    "path" : "~/Documents/simang_step_1-20200411T230353Z-001/coursera/datasciencecoursera/datascience_1.R",
+    "project_path" : "datascience_1.R",
+    "properties" : {
+        "cursorPosition" : "0,62",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
